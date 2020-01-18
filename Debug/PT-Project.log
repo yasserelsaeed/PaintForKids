@@ -1,0 +1,125 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  operators.cpp
+  main.cpp
+  ApplicationManager.cpp
+  Output.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\GUI\Output.cpp(234,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  CTriangle.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(37,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(38,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(39,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(40,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(41,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CTriangle.cpp(42,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CRectangle.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CRectangle.cpp(49,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CRectangle.cpp(50,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CRectangle.cpp(51,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CRectangle.cpp(52,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CLine.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(33,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(34,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(35,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(36,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(61,7): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CFigure.cpp
+  CCircle.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(9,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(34,16): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(35,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(36,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(50,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CCircle.cpp(95,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  CMUgraphics.cpp
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(751,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(1164,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(1171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(1202,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(1210,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  SwitchPMAction.cpp
+  SwitchDMAction.cpp
+  SendtoBackAction.cpp
+  SelectAction.cpp
+  Generating Code...
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\Figures\CLine.cpp(75): warning C4715: 'CLine::IsPointInside': not all control paths return a value
+  Compiling...
+  SaveAction.cpp
+  RestartAction.cpp
+  ResizeAction.cpp
+  PickShapeAction.cpp
+  PickColorAction.cpp
+  PickBothAciton.cpp
+  PasteAction.cpp
+  LoadAction.cpp
+  ExitAction.cpp
+  DeleteAction.cpp
+  CutAction.cpp
+  CopyAction.cpp
+  ChangeCFCAction.cpp
+  ChangeCDCAction.cpp
+  BringtoFrontAction.cpp
+  AddTriAction.cpp
+  AddRectAction.cpp
+  AddLineAction.cpp
+  AddCircAction.cpp
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\jpeg\jmemmgr.c(1103,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\jpeg\jmemmgr.c(1106,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\jpeg\jerror.c(169,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\jpeg\jerror.c(171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\CMUgraphicsLib\jpegload.c(23,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  Generating Code...
+AddCircAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> C:\Users\Yasser Elsaeed\Desktop\Projects\paint\PaintForKids-master\.\Debug\PT Project.exe
